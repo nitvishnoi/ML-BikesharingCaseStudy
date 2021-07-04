@@ -43,3 +43,11 @@ r2_score(y_test, y_pred)
 
 where y_test is the test data set for the target variable, and y_pred is the variable containing the predicted values of the target variable on the test set.
 Please don't forget to perform this step as the R-squared score on the test set holds some marks. The variable names inside the 'r2_score' function can be different based on the variable names you have chosen.
+
+
+
+# Solution 
+
+We followed the below process to solve the above problem statement.
+
+[![ML Process Diagram](img/Capture.PNG)]
