@@ -45,6 +45,18 @@ where y_test is the test data set for the target variable, and y_pred is the var
 Please don't forget to perform this step as the R-squared score on the test set holds some marks. The variable names inside the 'r2_score' function can be different based on the variable names you have chosen.
 
 
+## Submissions Expected:
+
+Python Notebook: One Python notebook with the whole linear model, predictions, and evaluation.
+
+Subjective Questions PDF: Apart from the Python notebook, you also need to answer some subjective questions related to linear regression which can be downloaded from the file below. Answer these questions and submit it as a PDF. 
+
+Note: There are some questions in the subjective questions doc "Linear+Regression+Subjective+Questions.pdf"  that you might not be familiar with. So you're expected to research these questions and give an appropriate answer in order to expand your learnings of this topic.
+
+ 
+
+You can download the subjective questions doc below:
+
 
 # Solution 
 
