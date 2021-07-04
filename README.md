@@ -50,4 +50,4 @@ Please don't forget to perform this step as the R-squared score on the test set 
 
 We followed the below process to solve the above problem statement.
 
-[![ML Process Diagram](img/Capture.PNG)]
+![ML Process Diagram](img/Capture.PNG)
